@@ -140,7 +140,8 @@ sku_name_mapping = {
     "NVIDIA A800-SXM4-80GB": "A800 80GB SXM", 
     "NVIDIA H800": "H800 80GB SXM", 
     "NVIDIA H20": "H20 96GB SXM", 
-    "Ascend910B2C": "Ascend910B2"
+    "Ascend910B2C": "Ascend910B2",
+    "AMD Instinct MI300X": "MI300X 192GB"
 }
 
 dtype_map = {
